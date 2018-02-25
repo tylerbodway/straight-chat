@@ -1,0 +1,21 @@
+.footer {
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+
+  &__text {
+    color: #cecece;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"!important;
+
+    a {
+      color: #cecece;
+      text-decoration: none;
+
+      &:hover {
+        border-bottom: 1px solid #cecece;
+      }
+    }
+  }
+}

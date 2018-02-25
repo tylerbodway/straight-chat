@@ -1,0 +1,11 @@
+<section style="text-align: center;">
+  <%= c('logo') %>
+  <div class="auth-form">
+    <%= form_with url: login_path do %>
+      <%= text_field_tag :username, "", class: "auth-form__input", placeholder: "Choose your username...", autofocus: true, required: true %>
+      <%= button_tag type: 'submit', class: "auth-form__submit" do %>
+        Continue <i class="fas fa-arrow-right"></i>
+      <% end %>
+    <% end %>
+  </div>
+</section>
