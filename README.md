@@ -5,10 +5,14 @@ a fully webpacker run frontend, and building views with `.erb` components.
 It is a simple chat application, using ActionCable, that will connect users
 authenticated by a simple username.
 
+![alt text](https://raw.githubusercontent.com/tylerbodway/straight-chat/master/public/screenshot.png)
+
+Demo at [http://straight-chat.tylerbodway.com](http://straight-chat.tylerbodway.com)
+
 In the future I'd like to accomplish:
-[] An admin role to moderate messages
-[] Named shareable chat rooms by URL
-[] Better, more responsive styling
+- [ ] An admin role to moderate messages
+- [ ] Named shareable chat rooms by URL
+- [ ] Better, more responsive styling
 
 ## Requirements
 - Ruby 2.4.2
