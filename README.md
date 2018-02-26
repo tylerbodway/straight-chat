@@ -5,7 +5,7 @@ a fully webpacker run frontend, and building views with `.erb` components.
 It is a simple chat application, using ActionCable, that will connect users
 authenticated by a simple username.
 
-![alt text](https://raw.githubusercontent.com/tylerbodway/straight-chat/master/public/screenshot.png)
+![alt text](https://raw.githubusercontent.com/tylerbodway/straight-chat/master/public/screenshot.jpg)
 
 Demo at [http://straight-chat.tylerbodway.com](http://straight-chat.tylerbodway.com)
 
